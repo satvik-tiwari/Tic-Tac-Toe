@@ -20,7 +20,7 @@ int main()
     }
     p=&G[0][0];
 
-    printf("Player 1 enter X or O:\n");
+    printf("Player 1 Enter X or O:\n");
     scanf("%c",&p1);
     if(p1=='X')
     p2='O';
